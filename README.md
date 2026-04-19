@@ -37,10 +37,12 @@ These datasets were joined using **UserID** to create a complete view of user be
 
 ## Tools & Technologies
 
+- **Miro** → Diagram planning
+- **Canva** → Project timeline 
 - **SQL (Databricks)** → Data cleaning & transformation  
 - **Excel** → Data analysis & visualization  
 - **PowerPoint** → Presentation of insights  
-- **HTML Dashboard** → One-page analytics dashboard  
+- **HTML Dashboard** → One-page analytics dashboard   
 
 ---
 
